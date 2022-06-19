@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bilyvio/bilyvio.github.io/static/css/main.e3cd3499.chunk.css",
+    "main.js": "/bilyvio/bilyvio.github.io/static/js/main.624c7d25.chunk.js",
+    "main.js.map": "/bilyvio/bilyvio.github.io/static/js/main.624c7d25.chunk.js.map",
+    "runtime-main.js": "/bilyvio/bilyvio.github.io/static/js/runtime-main.ec552bf8.js",
+    "runtime-main.js.map": "/bilyvio/bilyvio.github.io/static/js/runtime-main.ec552bf8.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/bilyvio/bilyvio.github.io/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.37e6fc9d.chunk.js": "/bilyvio/bilyvio.github.io/static/js/2.37e6fc9d.chunk.js",
+    "static/js/2.37e6fc9d.chunk.js.map": "/bilyvio/bilyvio.github.io/static/js/2.37e6fc9d.chunk.js.map",
+    "index.html": "/bilyvio/bilyvio.github.io/index.html",
+    "precache-manifest.383c717a6dd36c8295bb6cf9ce66ea19.js": "/bilyvio/bilyvio.github.io/precache-manifest.383c717a6dd36c8295bb6cf9ce66ea19.js",
+    "service-worker.js": "/bilyvio/bilyvio.github.io/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/bilyvio/bilyvio.github.io/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e3cd3499.chunk.css.map": "/bilyvio/bilyvio.github.io/static/css/main.e3cd3499.chunk.css.map",
+    "static/js/2.37e6fc9d.chunk.js.LICENSE.txt": "/bilyvio/bilyvio.github.io/static/js/2.37e6fc9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec552bf8.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.37e6fc9d.chunk.js",
+    "static/css/main.e3cd3499.chunk.css",
+    "static/js/main.624c7d25.chunk.js"
+  ]
+}
