@@ -1,0 +1,80 @@
+@import url(https://fonts.googleapis.com/css?family=Gudea:400,700);
+
+nav {
+    background-color: #1f222e;
+    font-family: "Poppins", sans-serif;
+}
+
+.logo {
+    color: #e2e2e2;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    font-size: 30px;
+}
+
+.logo a {
+    color: #e2e2e2;
+    text-decoration: none;
+}
+
+.logo a:hover {
+    color: #e2e2e2;
+    text-decoration: none;
+}
+
+.custom-link a {
+    color: #e2e2e2;
+    text-decoration: none;
+    letter-spacing: 3px;
+    font-size: 18px;
+}
+
+.custom-link a:hover {
+    color: #d1d1f6;
+    text-decoration: none;
+}
+
+.row-content {
+    margin: 0 auto;
+    padding: 20px 0px;
+    border-bottom: 3px ridge;
+    border-color: #1F222E;
+    min-height: 100px;
+}
+
+.responsive {
+    padding: 6px;
+    float: left;
+    width: 20%;
+}
+
+.footer-des {
+    padding-top: 15px;
+    color: #1F222E;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+@media only screen and (max-width: 992px) {
+    .responsive {
+        width: 50%;
+        margin: 6px 0;
+    }
+}
+@media only screen and (max-width: 576px) {
+    .responsive {
+        width: 100%;
+    }
+
+    .card-signin {
+        top: 100px;
+    }
+}
+
+@media (min-width: 768px) {
+    .navbar-nav.navbar-center {
+        position: absolute;
+        left: 50%;
+        transform: translatex(-50%);
+    }
+}

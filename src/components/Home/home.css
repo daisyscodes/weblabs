@@ -1,0 +1,56 @@
+.row-content {
+    margin: 0 auto;
+    padding: 20px 0px;
+    border-bottom: 3px ridge;
+    border-color: #1F222E;
+    min-height: 100px;
+}
+
+.responsive {
+    padding: 6px;
+    float: left;
+    width: 20%;
+}
+
+div .gallery {
+    border: 3px solid #1F222E;
+}
+div .gallery:hover {
+    border: 3px solid #e2e2e2;
+}
+div .gallery img {
+    width: 100%;
+    height: auto;
+}
+div .desc {
+    padding: 15px;
+    color: #e2e2e2;
+    background-color: #1F222E;
+    text-align: center;
+}
+div .desc2 {
+    padding: 5px;
+    font-size: 15px;
+    color: #afb1be;
+    background-color: #1F222E;
+    text-align: left;
+}
+div .desc2 .name {
+    text-align: right;
+}
+
+@media only screen and (max-width: 992px) {
+    .responsive {
+        width: 50%;
+        margin: 6px 0;
+    }
+}
+@media only screen and (max-width: 576px) {
+    .responsive {
+        width: 100%;
+    }
+
+    .card-signin {
+        top: 100px;
+    }
+}

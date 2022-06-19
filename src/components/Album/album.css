@@ -1,0 +1,29 @@
+.music-list {
+    float: left;
+    border: 0 !important;
+    margin: 0px;
+    padding: 10px 0px;
+    background-color: #1F222E;
+    color: #e2e2e2;
+}
+.music-list:hover {
+    color: #1F222E;
+}
+.alb .btn {
+    background: transparent;
+    padding: 10px 60px;
+    border: 2px solid #d1d1f6;
+    color: #d1d1f6;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition-property: background, color;
+    transition-duration: 0.2s;
+}
+.alb .btn:hover {
+    color: white;
+    border-color: white;
+    background: #d1d1f6;
+    cursor: pointer;
+    transition-property: background, color;
+    transition-duration: 0.2s;
+}

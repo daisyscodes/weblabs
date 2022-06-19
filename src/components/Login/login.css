@@ -1,0 +1,31 @@
+
+.form-signin {
+    width: 100%;
+}
+
+.form-signin .btn {
+    border-radius: 50px;
+    background: transparent;
+    padding: 10px 50px;
+    border: 2px solid #d1d1f6;
+    color: #d1d1f6;
+    text-transform: uppercase;
+    font-size: 16px;
+    transition-property: background, color;
+    transition-duration: 0.2s;
+}
+.form-signin .btn:hover {
+    color: white;
+    background: #d1d1f6;
+    border-color: white;
+    cursor: pointer;
+    transition-property: background, color;
+    transition-duration: 0.2s;
+}
+
+@media only screen and (max-width: 576px) {
+
+    .card {
+        top: 100px;
+    }
+}
